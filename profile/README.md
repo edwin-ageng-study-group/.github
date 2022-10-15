@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+1. Master
+  * Barang
+  * Harga
+2. Upload Photo
+3. Report
+  * Pdf
+  * Excel
+  * Print
+
 <!--
 
 **Here are some ideas to get you started:**
